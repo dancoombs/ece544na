@@ -1,2 +1,4 @@
 *.pyc
 nbs/.ipynb_checkpoints
+results
+*.png
